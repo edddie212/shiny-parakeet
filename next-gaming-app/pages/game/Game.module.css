@@ -1,0 +1,15 @@
+.container {
+  padding: 0 0.5rem;
+  max-width: 960px;
+  margin: auto;
+}
+.gameDetail h1 {
+  padding: 20px 0px 30px 0px;
+}
+.gameDetail img {
+  width: 100%;
+}
+.bulletInfo {
+  display: flex;
+  flex-direction: column;
+}
